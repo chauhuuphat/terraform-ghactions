@@ -22,7 +22,7 @@ jobs:
     env:
      ARM_SUBSCRIPTION_ID: "6969e16b-dee6-4d1c-9e4a-e390daceca4f"
      ARM_TENANT_ID: "b7d834e0-bd95-47e8-9304-f67d13b902d9"
-     ARM_CIENT_ID: "2084f0aa-ec64-4dc8-8640-60511ddcff51"
+     ARM_CLIENT_ID: "2084f0aa-ec64-4dc8-8640-60511ddcff51"
      ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
      AZURE_STORAGE: 'phatchauterraform'
     # Steps represent a sequence of tasks that will be executed as part of the job
