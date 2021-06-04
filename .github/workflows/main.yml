@@ -24,7 +24,7 @@ jobs:
      ARM_TENANT_ID: "b7d834e0-bd95-47e8-9304-f67d13b902d9"
      ARM_CIENT_ID: "2084f0aa-ec64-4dc8-8640-60511ddcff51"
      ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
-     AZURE_STORAGE: 'TERRAFORMDEMO06042021'
+     AZURE_STORAGE: 'phatchauterraform'
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
